@@ -1,3 +1,2 @@
 # test-box
 testbox
-tester
